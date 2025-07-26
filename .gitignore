@@ -1,5 +1,5 @@
 __pycache__
-modules
+!modules/MCF_Dropee/
 config.py
 database.db
 node_modules
