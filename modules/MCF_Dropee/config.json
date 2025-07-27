@@ -1,0 +1,13 @@
+{
+    "check_interval": 3600,
+    "auto_claim_daily_reward": true,
+    "auto_farming": true,
+    "auto_tasks": true,
+    "auto_wheel": true,
+    "auto_upgrade": false,
+    "delay_min": 5,
+    "delay_max": 15,
+    "max_retries": 3,
+    "use_random_delays": true,
+    "log_level": "INFO"
+}
