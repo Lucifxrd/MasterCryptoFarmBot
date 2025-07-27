@@ -1,0 +1,20 @@
+{
+    "conta_principal": {
+        "telegram_data": "query_id=AAAA...&user=%7B%22id%22%3A...",
+        "proxy": null,
+        "enabled": true,
+        "notes": "Conta principal sem proxy"
+    },
+    "conta_com_proxy": {
+        "telegram_data": "query_id=BBBB...&user=%7B%22id%22%3A...",
+        "proxy": "http://usuario:senha@proxy:porta",
+        "enabled": true,
+        "notes": "Conta com proxy"
+    },
+    "conta_desabilitada": {
+        "telegram_data": "query_id=CCCC...&user=%7B%22id%22%3A...",
+        "proxy": null,
+        "enabled": false,
+        "notes": "Conta temporariamente desabilitada"
+    }
+}
